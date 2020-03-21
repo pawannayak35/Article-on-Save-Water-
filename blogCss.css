@@ -1,0 +1,59 @@
+
+@media all and (min-width:601px, max-width:900px){
+	#big_wrapper{
+		width:100%;
+		margin:20px auto;
+	}
+	#the_footer{
+		border-top:2px;
+		padding:20px;
+		
+	}
+	
+	#au{
+		margin-left:200px;
+		border:2px solid;
+		width:900px;
+		height:400px;
+		
+	}
+	#sc{
+		text-align:center;
+		margin-left:100px;
+		margin-top:50px;
+		width:700px;
+		height:300px;
+	}
+	
+		
+}
+#image{
+	display: inline-block;
+	border-radius: 50px;
+}
+#fs{
+	border-radius: 40px;
+}
+#A ul{
+	list-style-type:none;
+}
+#instruction{
+	background:blue;
+	width:100%;
+	color:white;
+	border-radius: 50px;
+}
+#the_footer{
+	background:lightgreen;
+	color:blue;
+	font:bold italic 18px Lucida Handwriting;
+	text-align:center;
+	border-radius: 50px;
+}
+#au{
+	background:blue;
+	color:white;
+	font: italic 18px Bell MT;
+	border-radius: 10px;
+	
+}
